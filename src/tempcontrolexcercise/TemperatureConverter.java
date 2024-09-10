@@ -1,3 +1,5 @@
+package tempcontrolexcercise;
+
 public class TemperatureConverter {
 
     /**

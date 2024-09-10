@@ -1,3 +1,5 @@
+package tempcontrolexcercise;
+
 import static org.junit.Assert.*;
 
 public class TemperatureConverterTest {
